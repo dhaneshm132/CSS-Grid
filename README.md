@@ -1,4 +1,4 @@
-# CSS-Grid
+# Movie Gallery
 Responsive Movie Gallery using CSS Grid
 
 In Laptop
